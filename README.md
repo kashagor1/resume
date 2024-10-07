@@ -53,7 +53,7 @@ Dedicated and skilled Backend Developer with over 4 years of experience in desig
 
 ---
 
-## Certifications (if applicable)
+## Certifications
 
 - [SQL (Advanced)] – [HackerRank(https://www.hackerrank.com/certificates/35ccdc2d137a)] – [2024]
 
