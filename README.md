@@ -16,11 +16,11 @@ Dedicated and skilled Backend Developer with over 4 years of experience in desig
 
 ## Technical Skills
 
-- **Languages:** PHP, JavaScript (Node.js)
-- **Frameworks:** Express.js, Laravel (or any other relevant framework you use)
-- **Databases:** MySQL, MongoDB (or any other relevant databases)
-- **Tools & Technologies:** Git, RESTful APIs, Docker (if applicable), Postman, etc.
-- **Platforms:** Fiverr (for freelance work), AWS (if applicable), etc.
+- **Languages:** CPP, C, Pyhton, PHP, JavaScript (Node.js)
+- **Frameworks:** Express.js, Laravel, CodeIgniter, Wordpress, Jango 
+- **Databases:** MySQL, MongoDB, Postgress
+- **Tools & Technologies:** Git, RESTful APIs, Postman, etc.
+- **Platforms:** Fiverr (for freelance work).
 
 ---
 
@@ -28,56 +28,42 @@ Dedicated and skilled Backend Developer with over 4 years of experience in desig
 
 ### Backend Developer  
 **Freelancer on Fiverr**  
-[Month, Year] – Present  
+[March, 2020] – Present  
 - Collaborated with clients to develop robust backend solutions tailored to their specific needs.
 - Designed and implemented RESTful APIs using Node.js and Express.js.
 - Developed and maintained applications in PHP, ensuring scalability and performance.
 - Troubleshot and resolved issues in existing applications, improving functionality and user experience.
 - Managed database systems, optimizing queries for performance and reliability.
 
-### [Previous Job Title]  
-**[Previous Company Name]**  
-[City, State]  
-[Month, Year] – [Month, Year]  
-- [Brief description of your responsibilities and achievements in this role.]
-- [Use bullet points to highlight key accomplishments or projects.]
-
----
 
 ## Projects
-
-- **[Project Name]**  
-  Description: [Briefly describe the project, your role, and the technologies used.]
-
-- **[Project Name]**  
-  Description: [Briefly describe the project, your role, and the technologies used.]
+- **New BUS | Bus Ticket Booking System (Code)**  
+  Description: This is a Bus ticket booking system, it was develoed for the country of Bangladesh.
+  I have developed this app for my 6th semester project. I have made use of MVC framework of PHP.
+  CodeIgniter and Middlewares were implemented here for routing and verification.  
 
 ---
 
 ## Education
 
-**[Degree] in [Field of Study]**  
-**[University Name]**  
-[City, State]  
-[Year of Graduation]
+**BSc (Hons) in Computer Science & Engineering**  
+**National University**  
+[Gazipur, Dhaka Division]  
+[2024]
 
 ---
 
 ## Certifications (if applicable)
 
-- [Certification Name] – [Issuing Organization] – [Year]
-- [Certification Name] – [Issuing Organization] – [Year]
+- [SQL (Advanced)] – [HackerRank(https://www.hackerrank.com/certificates/35ccdc2d137a)] – [2024]
 
 ---
 
 ## Additional Information
 
-- Fluent in [any other languages you speak].
+- Fluent in Bangla,English .
 - Passionate about learning new technologies and keeping up with industry trends.
 - Strong problem-solving skills and ability to work independently or as part of a team.
 
 ---
 
-## References
-
-Available upon request.
