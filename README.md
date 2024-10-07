@@ -1,10 +1,10 @@
-# [Your Name]
-[Your Address]  
-[City, State, Zip]  
-[Your Phone Number]  
-[Your Email]  
-[Your LinkedIn Profile] (optional)  
-[Your GitHub Profile] (optional)  
+# [S M Khirul Alam]
+[South Dania, Dhaka, Bangladesh]  
+[Dhaka, Dhaka Division, 1236]  
+[01311857092]  
+[ka.shagor1@gmail.com]  
+[https://www.linkedin.com/in/kashagor]   
+[https://github.com/kashagor1]
 
 ---
 
